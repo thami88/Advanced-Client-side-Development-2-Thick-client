@@ -36,6 +36,7 @@
 	 itemObj.deleteItem(request.getParameter("hidItemIDDelete"));
 	 session.setAttribute("statusMsg", stsMsg);
 	}
+
 	
 	%>
 <!DOCTYPE html>
